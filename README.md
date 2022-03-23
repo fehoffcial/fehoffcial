@@ -1,9 +1,9 @@
 ## Oiii eu sou o Felipe Miguel, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/fehoffcial">
-  <img height="147em" src="https://github-readme-stats.vercel.app/api?username=fehoffcial&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehoffcial&layout=compact&langs_count=7&theme=codeSTACKr"/>
-  <img align="right" alt="Feh-Photo" height="145" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/102194131?s=400&u=7456cabb4a2bbaa0d3f1b09eb127a4e818b9a52c&v=4">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fehoffcial&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehoffcial&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img align="right" alt="Feh-Photo" height="140" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/102194131?s=400&u=7456cabb4a2bbaa0d3f1b09eb127a4e818b9a52c&v=4">
 </div>
   
   
